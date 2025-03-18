@@ -41,7 +41,7 @@ A platform to connect students with alumni for mentorship, networking, and profe
 
 ## 📫 Let's Connect
 - LinkedIn: (#)
-- GitHub: (#)
+- GitHub: (#https://github.com/AmrutaJanbhor)
 - Email: (#amruta.janbhor@gmail.com)
 
 Feel free to explore my projects and contribute! 🚀
