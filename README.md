@@ -1,16 +1,47 @@
 ## Hi there 👋
+# 🚀 Welcome to My GitHub
 
-<!--
-**AmrutaJanbhor/AmrutaJanbhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a passionate developer working on innovative tech projects, including:
 
-Here are some ideas to get you started:
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1️⃣ Campus Bites 🍽️
+A food ordering website designed for college canteens to streamline meal ordering and reduce wait times for students.
+
+- **Tech Stack:** Node.js, Java, MongoDB, Mongoose, CSS, JavaScript
+- **Features:**
+  - Fast and efficient meal ordering
+  - Customizable meal options
+  - Seamless payment integration
+  
+### 2️⃣ IT Learning Dashboard 📚
+A comprehensive learning platform for IT and computer science students, offering programming roadmaps and resources.
+
+- **Tech Stack:** React.js, Node.js, MongoDB
+- **Features:**
+  - Structured programming roadmaps
+  - Resource recommendations
+  - Skill enhancement tools
+  
+### 3️⃣ Alumni-Student Networking Platform 🔗
+A platform to connect students with alumni for mentorship, networking, and professional growth.
+
+- **Tech Stack:** Django/Node.js, React.js/Next.js, PostgreSQL/MongoDB
+- **Features:**
+  - Alumni directory with search
+  - Mentorship pairings
+  - Job & internship postings
+  - Discussion forums & events
+
+## 🔧 Technologies & Tools
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Django, Java
+- **Database:** MongoDB, PostgreSQL
+- **Other:** API Integrations, AI-driven recommendations, WebSockets
+
+## 📫 Let's Connect
+- LinkedIn: (#)
+- GitHub: (#)
+- Email: (#amruta.janbhor@gmail.com)
+
+Feel free to explore my projects and contribute! 🚀
