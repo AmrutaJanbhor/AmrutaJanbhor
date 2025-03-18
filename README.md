@@ -40,7 +40,7 @@ A platform to connect students with alumni for mentorship, networking, and profe
 - **Other:** API Integrations, AI-driven recommendations, WebSockets
 
 ## 📫 Let's Connect
-- LinkedIn: (#)
+- LinkedIn: (#www.linkedin.com/in/amruta-janbhor-9414512b6)
 - GitHub: (#https://github.com/AmrutaJanbhor)
 - Email: (#amruta.janbhor@gmail.com)
 
